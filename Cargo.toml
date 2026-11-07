@@ -1,0 +1,10 @@
+[package]
+name = "hijri-rs-lunar-mansions-manazil"
+version = "1.0.0"
+edition = "2021"
+description = "28 Arabic Lunar Mansions (Manazil Al-Qamar) & Anwa' Tracker"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "hijri_rs_lunar_mansions_manazil"
+path = "main.rs"
